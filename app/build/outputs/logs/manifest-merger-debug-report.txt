@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/340fb02ebb3ab96465d13d48d7f66c08/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9822777fbc45663563f2fbdbf2c9aa96/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/616248bd6b09923c20a3afe058fb3f4c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b2551d38dd971088a9f1eb8cd4e1784f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0e0ceb27f84ff547b85a65bacd54d3b3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ea7debc3873c03c04dc9b8ed374eeaaa/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9d5549fd58831ef8bfbb17bfae3a7ded/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0473897bb92ad6422132947277e60662/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d3ce8d91380f49de2f102a9fa138b798/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/dd/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/024775fdea1761134db24d84d097d7a0/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:1:1-25:12
+	package
+		ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
+		ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
+		ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:5:5-97
+	android:name
+		ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:6:5-96
+	android:name
+		ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:6:22-77
+application
+ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:8:5-24:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/340fb02ebb3ab96465d13d48d7f66c08/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/340fb02ebb3ab96465d13d48d7f66c08/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9822777fbc45663563f2fbdbf2c9aa96/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9822777fbc45663563f2fbdbf2c9aa96/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/616248bd6b09923c20a3afe058fb3f4c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/616248bd6b09923c20a3afe058fb3f4c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b2551d38dd971088a9f1eb8cd4e1784f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b2551d38dd971088a9f1eb8cd4e1784f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0e0ceb27f84ff547b85a65bacd54d3b3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0e0ceb27f84ff547b85a65bacd54d3b3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ea7debc3873c03c04dc9b8ed374eeaaa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ea7debc3873c03c04dc9b8ed374eeaaa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9d5549fd58831ef8bfbb17bfae3a7ded/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9d5549fd58831ef8bfbb17bfae3a7ded/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0473897bb92ad6422132947277e60662/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0473897bb92ad6422132947277e60662/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d3ce8d91380f49de2f102a9fa138b798/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d3ce8d91380f49de2f102a9fa138b798/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/dd/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/024775fdea1761134db24d84d097d7a0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/dd/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/024775fdea1761134db24d84d097d7a0/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:14:9-40
+activity#dev.gwj.myvoice.MainActivity
+ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:16:9-21:20
+	android:name
+		ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
+INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/340fb02ebb3ab96465d13d48d7f66c08/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/340fb02ebb3ab96465d13d48d7f66c08/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9822777fbc45663563f2fbdbf2c9aa96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9822777fbc45663563f2fbdbf2c9aa96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/616248bd6b09923c20a3afe058fb3f4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/616248bd6b09923c20a3afe058fb3f4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b2551d38dd971088a9f1eb8cd4e1784f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b2551d38dd971088a9f1eb8cd4e1784f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0e0ceb27f84ff547b85a65bacd54d3b3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0e0ceb27f84ff547b85a65bacd54d3b3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ea7debc3873c03c04dc9b8ed374eeaaa/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ea7debc3873c03c04dc9b8ed374eeaaa/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9d5549fd58831ef8bfbb17bfae3a7ded/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9d5549fd58831ef8bfbb17bfae3a7ded/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0473897bb92ad6422132947277e60662/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0473897bb92ad6422132947277e60662/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d3ce8d91380f49de2f102a9fa138b798/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d3ce8d91380f49de2f102a9fa138b798/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/dd/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/024775fdea1761134db24d84d097d7a0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/dd/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/024775fdea1761134db24d84d097d7a0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
+INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/340fb02ebb3ab96465d13d48d7f66c08/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
+		ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
+		ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/340fb02ebb3ab96465d13d48d7f66c08/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9822777fbc45663563f2fbdbf2c9aa96/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9822777fbc45663563f2fbdbf2c9aa96/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/616248bd6b09923c20a3afe058fb3f4c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/616248bd6b09923c20a3afe058fb3f4c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b2551d38dd971088a9f1eb8cd4e1784f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b2551d38dd971088a9f1eb8cd4e1784f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0e0ceb27f84ff547b85a65bacd54d3b3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0e0ceb27f84ff547b85a65bacd54d3b3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ea7debc3873c03c04dc9b8ed374eeaaa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ea7debc3873c03c04dc9b8ed374eeaaa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9d5549fd58831ef8bfbb17bfae3a7ded/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9d5549fd58831ef8bfbb17bfae3a7ded/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0473897bb92ad6422132947277e60662/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0473897bb92ad6422132947277e60662/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d3ce8d91380f49de2f102a9fa138b798/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d3ce8d91380f49de2f102a9fa138b798/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/340fb02ebb3ab96465d13d48d7f66c08/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/340fb02ebb3ab96465d13d48d7f66c08/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/dd/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/024775fdea1761134db24d84d097d7a0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/dd/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/024775fdea1761134db24d84d097d7a0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/dd/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/024775fdea1761134db24d84d097d7a0/AndroidManifest.xml:26:13-58
