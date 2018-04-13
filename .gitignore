@@ -10,3 +10,4 @@
 .idea/
 gradle/
 app/src/main/obj
+app/build

@@ -4,6 +4,7 @@ ADDED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/Androi
 INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:1:1-25:12
 INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:1:1-25:12
 INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/dd/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/aa4d70eaf82463d441bcdc386e6a3ddd/AndroidManifest.xml:15:1-21:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/340fb02ebb3ab96465d13d48d7f66c08/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9822777fbc45663563f2fbdbf2c9aa96/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/616248bd6b09923c20a3afe058fb3f4c/AndroidManifest.xml:17:1-28:12
@@ -91,6 +92,8 @@ uses-sdk
 INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
 INJECTED from /home/dd/workspace/workspace_android_proj/myVoice/app/src/main/AndroidManifest.xml
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/dd/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/aa4d70eaf82463d441bcdc386e6a3ddd/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/dd/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/aa4d70eaf82463d441bcdc386e6a3ddd/AndroidManifest.xml:19:5-43
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/340fb02ebb3ab96465d13d48d7f66c08/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/340fb02ebb3ab96465d13d48d7f66c08/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/dd/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9822777fbc45663563f2fbdbf2c9aa96/AndroidManifest.xml:20:5-44
